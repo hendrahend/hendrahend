@@ -12,11 +12,13 @@ I´m Hendra Hendriana, Junior FrontEnd Developer
   ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
   ![CSS3](https://img.shields.io/badge/Css3-black?style=flat-square&logo=css3)
   ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
+  ![Javascript](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
+  ![Javascript](https://img.shields.io/badge/Tailwindcss-black?style=flat-square&logo=tailwindcss)
 
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![OpenWrt](https://img.shields.io/badge/Openwrt-black?style=flat-square&logo=openwrt)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 
 ## ⚡ GitHub Stats
