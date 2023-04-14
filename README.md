@@ -21,6 +21,5 @@ I´m Hendra Hendriana, Junior FrontEnd Developer
 
 
 ## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hendra-hendriana&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-hendriana&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api?username=hendra-hendriana&show_icons=true&count_private=true" alt="hendra-hendriana" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-hendriana&layout=compact&count_private=true" />
