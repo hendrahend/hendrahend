@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I´m Hendra Hendriana, Junior FrontEnd Developer
-
+I´m Hendra Hendriana
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
