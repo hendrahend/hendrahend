@@ -17,8 +17,3 @@ I´m Hendra Hendriana
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![OpenWrt](https://img.shields.io/badge/Openwrt-black?style=flat-square&logo=openwrt)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-
-
-## ⚡ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hendra-hendriana&show_icons=true&count_private=true" alt="hendra-hendriana" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-hendriana&layout=compact&count_private=true" />
