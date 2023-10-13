@@ -16,4 +16,3 @@ I´m Hendra Hendriana
 
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![OpenWrt](https://img.shields.io/badge/Openwrt-black?style=flat-square&logo=openwrt)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
