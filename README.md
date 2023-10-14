@@ -18,3 +18,5 @@ I´m Hendra Hendriana
   ![OpenWrt](https://img.shields.io/badge/Openwrt-black?style=flat-square&logo=openwrt)
 
   [![An image of @hendrahend's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hendrahend)](https://holopin.io/@hendrahend)
+
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hendrahend" alt="hendrahend" /> </p>
